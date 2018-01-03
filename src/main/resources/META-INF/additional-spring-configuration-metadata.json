@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "cupSiz",
+      "type": "java.lang.String",
+      "description": "Description for cupSiz."
+  }
+] }
